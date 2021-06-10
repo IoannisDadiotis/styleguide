@@ -5,6 +5,6 @@
 * [README files](READMEs.md)
 * [Philosophy](philosophy.md)
 
-## See also
+#### See also
 
 * [How to update this guide](https://goto.google.com/doc-guide), for Googlers.
